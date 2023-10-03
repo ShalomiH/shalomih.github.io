@@ -7,11 +7,9 @@
   } */
 
   html, body {
-    margin: 0;
+    margin: 10;
     border: 0;
-    font-size: 100%;
+    font-size: 95%;
     background-color: #8d8787;
-    /* background-color: #440e0e; */
     color: #440e0e;
-    /* color: #8d8787; */
   }
